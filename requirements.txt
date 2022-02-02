@@ -1,0 +1,9 @@
+pip-upgrader
+Flask
+pandas
+numpy
+requests
+sklearn
+scikit-learn
+gunicorn
+    
